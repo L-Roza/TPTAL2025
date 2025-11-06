@@ -8,4 +8,6 @@ Le schéma suivant illustre les principales étapes d’un pipeline typique de p
 
 Ce dépôt contient les implémentations pratiques des travaux pratiques (TPs) proposés dans le cadre du cours “Traitement Automatique de la Langue Naturelle (TALN)”.
 
+TPs réalisés par Dr. Lydia Lazib
+
 
