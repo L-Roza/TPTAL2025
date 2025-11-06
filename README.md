@@ -4,7 +4,7 @@ Le prétraitement du texte constitue une étape essentielle du traitement automa
 Le schéma suivant illustre les principales étapes d’un pipeline typique de préparation des données textuelles avant leur analyse.
 
 
-![pipelineTAL](https://github.com/rozatech/TPTAL2025/blob/main/pipelineTAL.png)
+![pipelineTAL](images/pipelineTAL.png)
 
 Ce dépôt contient les implémentations pratiques des travaux pratiques (TPs) proposés dans le cadre du cours “Traitement Automatique de la Langue Naturelle (TALN)”.
 
